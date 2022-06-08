@@ -190,6 +190,10 @@ main {}
     .nft__content {
         text-align: center;
     }
+    .nft__green-btn {
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 @media (max-width: 400px) {
